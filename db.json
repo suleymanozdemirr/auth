@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "Suleyman Özdemir",
+      "email": "suleymanozdemir@gamiil.com",
+      "password": "sulo1234",
+      "cpassword": "sulo1234",
+      "id": 1
+    },
+    {
+      "email": "suleymanozdemir@gamiil.com",
+      "password": "fgfgfgfgfgf",
+      "id": 2
+    }
+  ]
+}
